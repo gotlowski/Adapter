@@ -1,0 +1,16 @@
+D:\Projekty\GOT\.NET\Adapter\obj\Debug\net5.0\Adapter.csprojAssemblyReference.cache
+D:\Projekty\GOT\.NET\Adapter\obj\Debug\net5.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekty\GOT\.NET\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfoInputs.cache
+D:\Projekty\GOT\.NET\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfo.cs
+D:\Projekty\GOT\.NET\Adapter\obj\Debug\net5.0\Adapter.csproj.CoreCompileInputs.cache
+D:\Projekty\GOT\.NET\Adapter\bin\Debug\net5.0\Adapter.exe
+D:\Projekty\GOT\.NET\Adapter\bin\Debug\net5.0\Adapter.deps.json
+D:\Projekty\GOT\.NET\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.json
+D:\Projekty\GOT\.NET\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.dev.json
+D:\Projekty\GOT\.NET\Adapter\bin\Debug\net5.0\Adapter.dll
+D:\Projekty\GOT\.NET\Adapter\bin\Debug\net5.0\ref\Adapter.dll
+D:\Projekty\GOT\.NET\Adapter\bin\Debug\net5.0\Adapter.pdb
+D:\Projekty\GOT\.NET\Adapter\obj\Debug\net5.0\Adapter.dll
+D:\Projekty\GOT\.NET\Adapter\obj\Debug\net5.0\ref\Adapter.dll
+D:\Projekty\GOT\.NET\Adapter\obj\Debug\net5.0\Adapter.pdb
+D:\Projekty\GOT\.NET\Adapter\obj\Debug\net5.0\Adapter.genruntimeconfig.cache
